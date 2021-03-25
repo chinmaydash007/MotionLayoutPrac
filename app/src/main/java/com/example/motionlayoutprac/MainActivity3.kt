@@ -21,6 +21,10 @@ class MainActivity3 : AppCompatActivity() {
             //handleTouch()
 //            slide()
 //            fade()
+
+
+
+            //s dsdajdjaskdjkasd
         }
 
 
