@@ -10,6 +10,9 @@
        <KeyFrameSet>
        </KeyFrameSet>
         <OnClick motion:targetId="@+id/imageView" />
+        <OnSwipe
+            motion:dragDirection="dragRight"
+            motion:touchAnchorSide="right" />
 
 
     </Transition>
